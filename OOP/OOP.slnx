@@ -22,4 +22,8 @@
   <Project Path="Ex21/Ex21.csproj" Id="21db7471-199b-4e40-ab71-bc64f866fc15" />
   <Project Path="Ex22/Ex22.csproj" Id="e2b431c5-0be7-4453-a410-00eb9962b730" />
   <Project Path="Ex23/Ex23.csproj" Id="63f273cd-9c59-4ad2-a577-b0f852f72f23" />
+  <Project Path="Ex24/Ex24.csproj" Id="cb4dac2c-de45-4c52-8459-c1b3ed505f1e" />
+  <Project Path="Ex25/Ex25.csproj" Id="1e55f2f9-d26c-471e-9bce-43557321f483" />
+  <Project Path="Ex26/Ex26.csproj" Id="484fd421-3f5a-4e69-957b-a8884c5b0661" />
+  <Project Path="testes/testes.csproj" Id="b7b199a4-226f-45ab-ac90-80b0b53ec57c" />
 </Solution>
